@@ -1,4 +1,4 @@
-sfdc.username=alex@woolford.io
-sfdc.password=password+token
+sfdc.username=j.goncalves.palma@accenture.com.ab2bjpdev
+sfdc.password=Faneca432ab2b
 
 kafka.broker.address=cp01.woolford.io:9092
